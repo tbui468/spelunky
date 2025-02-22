@@ -3,6 +3,8 @@
 #review: also used a dictionary to store level data
 #goal: have game switch from scene to scene when player touches goal using custom events
 
+print("this is a small change")
+
 import pygame
 
 pygame.init()
